@@ -2,7 +2,7 @@
 Gesture Detection Based Device for the Disabled
 
 
-# Instructions
+# Introduction
 Science and Technology have made Human life addictive to comfort but still there exists an
 underprivileged group of people who are fighting for finding an innovative way that can
 make the process of communication easier for them. According to the World Health
