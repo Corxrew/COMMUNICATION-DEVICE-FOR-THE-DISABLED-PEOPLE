@@ -1,6 +1,8 @@
 # COMMUNICATION DEVICE FOR THE DISABLED PEOPLE
-GESTURE DETECTION BASED COMMUNICATION DEVICE FOR THE DISABLED PEOPLE
+Gesture Detection Based Device for the Disabled
 
+
+# Instructions
 Science and Technology have made Human life addictive to comfort but still there exists an
 underprivileged group of people who are fighting for finding an innovative way that can
 make the process of communication easier for them. According to the World Health
@@ -24,3 +26,13 @@ population is mostly well versed with ASL (American Sign Language) which is the
 convention followed worldwide. The device has a dataset loaded with words and alphabets
 that can be invoked by hand symbols/signs. The dataset can be altered by the user providing
 him/her with the option of personalizing the tool and enhancing the experience and utility.
+
+# Abstract
+In this project, we are going to propose a new wearable communication device in an effort to
+bridge the gap in the process of communication between the Blind, Deaf and Dumb people.
+The prototype will make use of the flex sensor and Arduino microcontroller to provide a
+means of communication to differently-abled people having one or all of the above mention
+disabilities. It is assumed that a person who is deaf is also dumb but vice versa is not true. The
+device can convert the hand gestures to desired letter/word/phrase and then display it on a
+16*2 LCD as well as can send this letter/word/phrase to a mobile device using wireless
+communication for conversion of text to speech.
