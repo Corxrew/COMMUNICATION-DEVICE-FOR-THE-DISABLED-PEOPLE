@@ -2,7 +2,7 @@
 Gesture Detection Based Device for the Disabled
 
 
-# Instructions
+# Introduction
 Science and Technology have made Human life addictive to comfort but still there exists an
 underprivileged group of people who are fighting for finding an innovative way that can
 make the process of communication easier for them. According to the World Health
@@ -36,3 +36,5 @@ disabilities. It is assumed that a person who is deaf is also dumb but vice vers
 device can convert the hand gestures to desired letter/word/phrase and then display it on a
 16*2 LCD as well as can send this letter/word/phrase to a mobile device using wireless
 communication for conversion of text to speech.
+
+# Refer to Report for further information regarding circuit diagram, flow schematic etc.
